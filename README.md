@@ -2,7 +2,7 @@
 
 ###  如果您有软件开发定制需求，请联系我，电子邮件: mysolution@qq.com
 
-我的中文自媒体：
+我的中文博客：
 
 [我的知乎](https://www.zhihu.com/people/micro9981)
 
@@ -13,6 +13,12 @@
 [我的csdn](https://blog.csdn.net/micro9981)
 
 [我的博客园](https://www.cnblogs.com/micro9981)
+
+[我的51CTO](https://blog.51cto.com/micro3721)
+
+[我的OSCHINA](https://my.oschina.net/micro3721)
+
+[我的SegmentFault ](https://segmentfault.com/u/micro3721)
 
 
 
