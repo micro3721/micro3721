@@ -1,30 +1,6 @@
-###  我有多年软件开发经验。精通嵌入式STM32，RTOS，Linux，Ubuntu,   Android AOSP,   Android APP,  Java , Kotlin ,  C,   C++,   Python ,  QT。
+我有多年软件开发经验，精通嵌入式STM32，RTOS，Linux，Ubuntu,   Android AOSP,   Android APP,  Java , Kotlin ,  C,   C++,   Python ,  QT。 如果您有软件开发定制需求，请联系我，电子邮件: mysolution@qq.com
 
-###  如果您有软件开发定制需求，请联系我，电子邮件: mysolution@qq.com
-
-我的中文博客：
-
-[我的知乎](https://www.zhihu.com/people/micro9981)
-
-[我的掘金](https://juejin.cn/user/993614244885245)
-
-[我的简书](https://www.jianshu.com/u/253b56908748)
-
-[我的csdn](https://blog.csdn.net/micro9981)
-
-[我的博客园](https://www.cnblogs.com/micro9981)
-
-[我的51CTO](https://blog.51cto.com/micro3721)
-
-[我的OSCHINA](https://my.oschina.net/micro3721)
-
-[我的SegmentFault ](https://segmentfault.com/u/micro3721)
-
-
-
-
-
-My English self-media：
+I have extensive experience in software development, with expertise in embedded STM32, RTOS, Linux, Ubuntu, Android AOSP, Android APP, Java, Kotlin, C, C++, Python and QT. If you require custom software development services, please feel free to contact me at mysolution@qq.com.
 
 
 
